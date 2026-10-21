@@ -27,5 +27,5 @@ const connectDB = async () => {
 
 module.exports = { sequelize, connectDB };
 
-// printing-db.cl8usum6kmlo.ap-southeast-2.rds.amazonaws.com
+// 
 
